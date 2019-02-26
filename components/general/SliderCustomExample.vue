@@ -32,7 +32,7 @@ export default {
         }
       ],
       swiperOption: {
-        direction: 'vertical',
+        // direction: 'vertical',
         loop: true,
         speed: 2000,
         slidesPerView: 1,

@@ -40,7 +40,10 @@ export default {
         // USED FOR AUTOPLAY: 1000 = 1s
         direction: 'vertical',
         // loop: true,
+        // loopFillGroupWithBlank: true,
+        // effect: 'fade',
         speed: 3000,
+        centeredSlides: true,
         slidesPerView: 4,
         slidesPerGroup: 1,
         spaceBetween: 0,
